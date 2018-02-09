@@ -63,7 +63,8 @@ Image Caption, Image Description, From Text to Image
 
 ### Others
 - ICCV-2017 Scene Graph Generation from Objects, Phrases and Caption Regions
-
+- ICCV-2017 An Empirical Study of Language CNN for Image Captioning
+- ICCV-2017 Show, Adapt and Tell: Adversarial Training of Cross-domain Image Captioner
 - CVPR-2017 Skeleton Key: Image Captioning by Skeleton-Attribute Decomposition
 - CVPR-2017 Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning 
 - CVPR-2017 SCA-CNN: Spatial and Channel-wise Attention in Convolutional Networks for Image Captioning 
