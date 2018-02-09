@@ -55,7 +55,23 @@ Image Caption, Image Description, From Text to Image
 - Self-critical Sequence Training for Image Captioning. CVPR, 2017. [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Rennie_Self-Critical_Sequence_Training_CVPR_2017_paper.pdf)]
 - Improved Image Captioning via Policy Gradient optimization of SPIDEr. ICCV, 2017. [[pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Improved_Image_Captioning_ICCV_2017_paper.pdf)] [[video](https://www.youtube.com/watch?v=PCGuC4M038E)]
 - Deep Reinforcement Learning-based Image Captioning with Embedding Reward.  CVPR, 2017. [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ren_Deep_Reinforcement_Learning-Based_CVPR_2017_paper.pdf)] [[video](https://www.youtube.com/watch?v=iTpImCJRwks)]
+- Ranzato, Marc’Aurelio, Sumit Chopra, Michael Auli, and Wojciech Zaremba. “Sequence level training with recurrent neural networks.” arXiv preprint arXiv:1511.06732 (2015).
+- Rennie, Steven J., Etienne Marcheret, Youssef Mroueh, Jarret Ross, and Vaibhava Goel. “Self-critical Sequence Training for Image Captioning.” arXiv preprint arXiv:1612.00563 (2016).
+- Yu, Lantao, Weinan Zhang, Jun Wang, and Yong Yu. “Seqgan: sequence generative adversarial nets with policy gradient.” arXiv preprint arXiv:1609.05473 (2016).
+- Liu, Siqi, Zhenhai Zhu, Ning Ye, Sergio Guadarrama, and Kevin Murphy. “Optimization of image description metrics using policy gradient methods.” arXiv preprint arXiv:1612.00370 (2016).
+- Bahdanau, Dzmitry, Philemon Brakel, Kelvin Xu, Anirudh Goyal, Ryan Lowe, Joelle Pineau, Aaron Courville, and Yoshua Bengio. “An actor-critic algorithm for sequence prediction.” arXiv preprint arXiv:1607.07086 (2016).
+- Li, Jiwei, Will Monroe, Alan Ritter, Michel Galley, Jianfeng Gao, and Dan Jurafsky. “Deep reinforcement learning for dialogue generation.” arXiv preprint arXiv:1606.01541 (2016).
 
+### Others
+- CVPR-2017 Skeleton Key: Image Captioning by Skeleton-Attribute Decomposition
+- CVPR-2017 Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning 
+- CVPR-2017 SCA-CNN: Spatial and Channel-wise Attention in Convolutional Networks for Image Captioning 
+- Boosting Image Captioning with Attributes
+- What Value Do Explicit High Level Concepts Have in Vision to Language Problems?
+- Image Caption Generation with Text-Conditional Semantic Attention
+- Guiding Long-Short Term Memory for Image Caption Generation
+- CVPR-2015 From captions to visual concepts and back
+- Attend and Tell: Neural Image Caption Generation with Visual Attention
 -----
 ## Video Captioning
 * Berkeley [[Web](http://jeffdonahue.com/lrcn/)] [[Paper](http://arxiv.org/pdf/1411.4389)]
