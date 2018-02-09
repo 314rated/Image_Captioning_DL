@@ -50,7 +50,6 @@ Image Caption, Image Description, From Text to Image
 - Bottom-up and top-down attention for image captioning and VQA.[[pdf]](https://arxiv.org/abs/1707.07998)
 - Convolutional Image Captioning [[Paper]](https://arxiv.org/pdf/1711.09151)
 
-
 ### Reinforcement Learning
 - Self-critical Sequence Training for Image Captioning. CVPR, 2017. [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Rennie_Self-Critical_Sequence_Training_CVPR_2017_paper.pdf)]
 - Improved Image Captioning via Policy Gradient optimization of SPIDEr. ICCV, 2017. [[pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Improved_Image_Captioning_ICCV_2017_paper.pdf)] [[video](https://www.youtube.com/watch?v=PCGuC4M038E)]
@@ -63,6 +62,8 @@ Image Caption, Image Description, From Text to Image
 - Li, Jiwei, Will Monroe, Alan Ritter, Michel Galley, Jianfeng Gao, and Dan Jurafsky. “Deep reinforcement learning for dialogue generation.” arXiv preprint arXiv:1606.01541 (2016).
 
 ### Others
+- ICCV-2017 Scene Graph Generation from Objects, Phrases and Caption Regions
+
 - CVPR-2017 Skeleton Key: Image Captioning by Skeleton-Attribute Decomposition
 - CVPR-2017 Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning 
 - CVPR-2017 SCA-CNN: Spatial and Channel-wise Attention in Convolutional Networks for Image Captioning 
@@ -72,6 +73,9 @@ Image Caption, Image Description, From Text to Image
 - Guiding Long-Short Term Memory for Image Caption Generation
 - CVPR-2015 From captions to visual concepts and back
 - Attend and Tell: Neural Image Caption Generation with Visual Attention
+- Deep Captioning with Multimodal Recurrent Neural Networks
+- Explain Images with Multimodal Recurrent Neural Networks 
+- Deep Visual-Semantic Alignments for Generating Image Descriptions
 -----
 ## Video Captioning
 * Berkeley [[Web](http://jeffdonahue.com/lrcn/)] [[Paper](http://arxiv.org/pdf/1411.4389)]
