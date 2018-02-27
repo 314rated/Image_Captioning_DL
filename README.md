@@ -1,10 +1,12 @@
-# Image_Captioning
+[]# Image_Captioning
 Image Caption, Image Description, From Text to Image
 ### Survey
 - Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures.[[pdf]](https://www.jair.org/media/4900/live-4900-9139-jair.pdf)
 - CONNECTING IMAGES AND NATURAL LANGUAGE.2016. [[pdf]](https://pdfs.semanticscholar.org/6271/07c02c2df1366965f11678dd3c4fb14ac9b3.pdf)
 
 ### Recurrent Neural Network
++ DenseCap: Fully Convolutional Localization Networks for Dense Captioning [[Paper]](https://arxiv.org/pdf/1511.07571.pdf) [[Project]](https://cs.stanford.edu/people/karpathy/densecap/)
++ Self-critical Sequence Training for Image Captioning [[Paper]](https://arxiv.org/pdf/1612.00563.pdf)
 * UCLA + Baidu [[Web](http://www.stat.ucla.edu/~junhua.mao/m-RNN.html)] [[Paper-arXiv1](http://arxiv.org/pdf/1410.1090)], [[Paper-arXiv2](http://arxiv.org/pdf/1412.6632)]
   * Junhua Mao, Wei Xu, Yi Yang, Jiang Wang, and Alan L. Yuille, *Explain Images with Multimodal Recurrent Neural Networks*, arXiv:1410.1090
   * Junhua Mao, Wei Xu, Yi Yang, Jiang Wang, Zhiheng Huang, and Alan L. Yuille, *Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)*, arXiv:1412.6632 / ICLR 2015
